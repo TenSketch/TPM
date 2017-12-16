@@ -55,7 +55,7 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
 	background-color: #F44336;
-	background: url(../images/background.jpg)no-repeat center top;
+	background: url(../images/23659296_224148598125528_3583868449970167886_n.jpg)no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -63,15 +63,9 @@ body{
     text-align: center;
     padding: 5em 0;
 }
-.services{
-    
-    color: #fff;
-    padding: 10px;
-    font-family: inherit;
-}
-.contact{
-    color: #fff;
-    padding: 5px;
+
+.newsletter>p{
+    text-transform: lowercase !important;
 }
 /*--background--*/
 h1 {
@@ -177,7 +171,7 @@ body {
 .newsletter {
     margin: 0em auto 0;
     width: 60%;
-	    margin-top: 100px;
+	    margin-top: 70px;
 }
 
 .newsletter h2{
