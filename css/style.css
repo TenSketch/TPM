@@ -55,7 +55,7 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
 	background-color: #F44336;
-	background: url(../images/23659296_224148598125528_3583868449970167886_n.jpg)no-repeat center top;
+	background: url(../images/banner-TPM.jpg)no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -171,7 +171,7 @@ body {
 .newsletter {
     margin: 0em auto 0;
     width: 60%;
-	    margin-top: 40px;
+	    margin-top: 30px;
 }
 
 .newsletter h2{
