@@ -2,7 +2,8 @@
 body {
 	padding: 0;
 	margin: 0;
-	background: ;
+	
+    
 
 }
 body a {
@@ -55,13 +56,17 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
 	background-color: #F44336;
-	background: url(../images/banner-TPM.jpg)no-repeat center top;
+	background: url(../images/pexels-photo-247287.jpeg)no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     text-align: center;
     padding: 5em 0;
+    
+    
+    
+    
 }
 
 .newsletter>p{
@@ -162,7 +167,7 @@ p {
 /* --//timer-- */
 /*--newsletter--*/
 body {
-    background-color: #FF5722;
+    background-color: #000;
 }
 .container p {
     font-size: 18px;
