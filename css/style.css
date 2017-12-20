@@ -175,8 +175,8 @@ body {
 }
 .newsletter {
     margin: 0em auto 0;
-    width: 60%;
-	    margin-top: 30px;
+    width: 50%;
+	   
 }
 
 .newsletter h2{
@@ -225,7 +225,7 @@ body {
 .copy p {
     color: #fff;
     font-size: 14px;
-    margin-top: 40px;
+    margin-top: 20px;
 	letter-spacing:1px;
 }
 .copy p a {
